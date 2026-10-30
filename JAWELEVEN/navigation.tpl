@@ -1,0 +1,1 @@
+<nav class="page-nav" aria-label="Страницы публикаций">[prev-link]<span aria-label="Предыдущая страница">← Назад</span>[/prev-link]<div>{pages}</div>[next-link]<span aria-label="Следующая страница">Далее →</span>[/next-link]</nav>
